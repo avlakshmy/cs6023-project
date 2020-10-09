@@ -1,0 +1,6 @@
+40000 documents
+35382 words in vocabulary
+6737989 number of words in entire input
+749 max words in a document
+8 min words in a document
+168.45 average words in a document
